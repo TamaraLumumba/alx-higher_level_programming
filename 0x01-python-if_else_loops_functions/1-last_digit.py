@@ -9,11 +9,9 @@ else:
     last_digit =(number * -1) % 10
     last_digit *= -1
 
-print(f"last digit of {number} is {last_digit}", end=" ")
-
-if(last_digit > 5):
-    print("and is greater than 5")
-elif (last_digit == 0):
-    print("and is 0")
+if last_digit > 5:
+    print(f"Last digit of {number} is {last_digit} and is greater than 5")
+elif last_digit == 0:
+    print(f"Last digit of {number} is {last_digit} and is 0")
 else:
-    print("and is less than 6 and not 0")
+    print(f"Last digit of {number} is {last_digit} and is less than 6 and not 0")
