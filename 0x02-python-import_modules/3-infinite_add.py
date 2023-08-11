@@ -2,7 +2,7 @@
 
 from sys import argv
 if __name__ == '__main__':
-    args = agrv[1:]
+    args = argv[1:]
     sum =0
     for num in args:
         sum += int(num)
