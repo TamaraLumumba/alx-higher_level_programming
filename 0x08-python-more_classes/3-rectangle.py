@@ -43,22 +43,22 @@ class Rectangle:
 
     def area(self):
         """Returns the rectangle area"""
-        return self.__height * self.__width
+        return self.__width * self.__height
 
     def perimeter(self):
         """Returns the rectangle perimeter"""
-        if self.__height == 0 or self.width == 0:
+        if self.__width == 0 or self.__height == 0:
             return 0
         return self.__width * 2 + self.__height * 2
-    
+
     def __str__(self):
-        """Returns a string representation of a rectangle"""
+        """Prints the rectangle"""
         symbol = "#"
         rect = ""
         if self.__width == 0 or self.__height == 0:
             return rect
-        for i in range (self.__height):
-            for j in range (self.__weight):
+        for i in range(self.__height):
+            for j in range(self.__width):
                 rect += symbol
             if i < self.__height - 1:
                 rect += "\n"
