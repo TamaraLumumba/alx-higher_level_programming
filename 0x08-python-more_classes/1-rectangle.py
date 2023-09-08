@@ -5,6 +5,11 @@
 class Rectangle:
     """Represents a rectangle"""
     def __init__(self, width=0, height=0):
+        """Constructor - Initialize a new rectangle
+        Args:
+            width (int): rectangle width
+            height (int): rectangle height
+        """
         self.width = width
         self.height = height
 
