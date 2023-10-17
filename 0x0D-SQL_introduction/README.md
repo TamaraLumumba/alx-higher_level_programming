@@ -7,7 +7,7 @@
 
 * [Introduction](#-Introduction)
 * [Learning-Objectives](#-Learning-Objectives)
-* [Comments](#-Comments:)
+* [Comments](#-Comments)
 * [Requirments](#-Requirments)
 
 ## Introduction
