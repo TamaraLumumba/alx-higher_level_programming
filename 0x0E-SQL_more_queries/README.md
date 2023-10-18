@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> SQL - INTRODUCTION </h1>
+  <h1> SQL - MORE QUERIES </h1>
   
 </div>
 
