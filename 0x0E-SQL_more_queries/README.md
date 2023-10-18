@@ -121,6 +121,9 @@ id  name
 8   Thriller
 $
 ```
+<a href="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/3/bc2575fee3303b731031.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231018T144048Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=53e7e611e1f84b09e4bd99738fd57cf99b1d7f06cf6d1c3a03049d7d7bb51824">CheatSheet</a>
+
+
 ## Requirments
 Allowed editors: vi, vim, emacs
 
